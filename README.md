@@ -47,12 +47,13 @@ mdtablefmt --format markdown README.md
 ## Project structure
 
 ```text
-mdtablefmt/
-  README.md
-  pyproject.toml
-  mdtablefmt.py
-  tests/
-    test_mdtablefmt.py
+.gitignore
+LICENSE
+README.md
+mdtablefmt.py
+pyproject.toml
+tests/
+  test_mdtablefmt.py
 ```
 
 ## Tags / keywords
